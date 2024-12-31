@@ -2,7 +2,7 @@
 '''
 Documentation
 ##################################################
-# Description :Puisque Flappy bird est mort , son fantom continue son chemain et il peut traverser les murs . 
+# Description :Puisque Flappy bird est mort , son fantom continue son chemin et il peut traverser les murs . 
 ##################################################
 
 jeu : Flappy Zak 
